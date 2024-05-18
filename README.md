@@ -7,8 +7,7 @@ faculty can register the number of students in a particular
 class then register the number of subjects in that class and can mark the attendance of the students.
 <h2>Features Available</h2>
 
-<img src="https://drive.google.com/file/d/1IAfYuo0jKtux4bKzMU40uf6T5ohJ-bsA/view?usp=drive_link" width="100px" height = "300px">
-
+<a href="https://drive.google.com/file/d/1IAfYuo0jKtux4bKzMU40uf6T5ohJ-bsA/view?usp=drive_link" />
 
 <h3>Admin Module</h3>
 <ul>
