@@ -7,9 +7,7 @@ faculty can register the number of students in a particular
 class then register the number of subjects in that class and can mark the attendance of the students.
 <h2>Features Available</h2>
 
-![Screenshot_20240518_185737](https://github.com/sharma-nav/Attendees-An_Attendance_Taking_App/assets/71686243/1cac8b67-afaf-4533-898b-0d1068951884)
-![Screenshot_20240518_185741](https://github.com/sharma-nav/Attendees-An_Attendance_Taking_App/assets/71686243/0b51df22-f39e-4406-8cce-52ce2ce40568)
-![Screenshot_20240518_185755](https://github.com/sharma-nav/Attendees-An_Attendance_Taking_App/assets/71686243/94aa1521-b90a-434b-b061-6c3da8ee5561)
+<img src="https://github.com/favicon.ico](https://github.com/sharma-nav/Attendees-An_Attendance_Taking_App/assets/71686243/1cac8b67-afaf-4533-898b-0d1068951884" width="48">
 
 
 <h3>Admin Module</h3>
